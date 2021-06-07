@@ -1,0 +1,73 @@
+h1 {
+  text-align: center;
+}
+table {
+  padding: 30px;
+  text-align: center;
+}
+td {
+  text-align: center;
+}
+.btn {
+  background: #fb9300;
+  background-image: -webkit-linear-gradient(top, #fb9300, fb9300);
+  background-image: -moz-linear-gradient(top, #fb9300, fb9300);
+  background-image: -ms-linear-gradient(top, #fb9300, fb9300);
+  background-image: -o-linear-gradient(top, #fb9300, fb9300);
+  background-image: linear-gradient(to bottom, #fb9300, fb9300);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: white;
+  font-size: 29px;
+  padding: 20px 33px 20px 33px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ffed99;
+  background-image: -webkit-linear-gradient(top, #ffed99, #ffed99);
+  background-image: -moz-linear-gradient(top, #ffed99, #ffed99);
+  background-image: -ms-linear-gradient(top, #ffed99, #ffed99);
+  background-image: -o-linear-gradient(top, #ffed99, #ffed99);
+  background-image: linear-gradient(to bottom, #ffed99, #ffed99);
+  text-decoration: none;
+}
+.last-btn {
+  background: #fff5eb;
+  background-image: -webkit-linear-gradient(top, #fff5eb, #fff5eb);
+  background-image: -moz-linear-gradient(top, #fff5eb, #fff5eb);
+  background-image: -ms-linear-gradient(top, #fff5eb, #fff5eb);
+  background-image: -o-linear-gradient(top, #fff5eb, #fff5eb);
+  background-image: linear-gradient(to bottom, #fff5eb, #fff5eb);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: black;
+  font-size: 29px;
+  padding: 20px 33px 20px 33px;
+  text-decoration: none;
+}
+
+.last-btn:hover {
+  background: #f4c7ab;
+  background-image: -webkit-linear-gradient(top, #f4c7ab, #f4c7ab);
+  background-image: -moz-linear-gradient(top, #f4c7ab, #f4c7ab);
+  background-image: -ms-linear-gradient(top, #f4c7ab, #f4c7ab);
+  background-image: -o-linear-gradient(top, #f4c7ab, #f4c7ab);
+  background-image: linear-gradient(to bottom, #f4c7ab, #f4c7ab);
+  text-decoration: none;
+}
+.input {
+  color: white;
+  border: 2rem;
+}
+.output {
+  background-color: #caf7e3;
+  padding: 2rem;
+  border: 1rem;
+  border-radius: 20%;
+  font-size: 1.5rem;
+}
